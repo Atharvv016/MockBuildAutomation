@@ -1,1 +1,1 @@
-print("Automated Build Successful!")
+print("Build automation working with GitHub!")
